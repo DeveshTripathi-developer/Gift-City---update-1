@@ -8,7 +8,7 @@ export function GiftCitySection() {
           {/* Left Column: Heading and kicker */}
           <div className="lg:col-span-5">
             <p className="text-xs font-semibold tracking-widest uppercase text-[#b17a2b] mb-3">
-              01 / GIFT CITY
+              GIFT CITY
             </p>
             <h2 className="font-serif text-3xl sm:text-4xl text-stone-900 font-normal tracking-tight leading-tight mb-5">
               India&apos;s gateway to international finance

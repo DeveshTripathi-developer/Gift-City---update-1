@@ -48,7 +48,7 @@ export function RegulatorySection() {
       <div className="max-w-6xl mx-auto px-4 sm:px-6 lg:px-8">
         <div className="max-w-3xl mb-12">
           <p className="text-xs font-semibold tracking-widest uppercase text-[#b17a2b] mb-3">
-            06 / REGULATORY & INVESTOR INFORMATION
+            REGULATORY & INVESTOR INFORMATION
           </p>
           <h2 className="font-serif text-3xl sm:text-4xl text-stone-900 font-normal tracking-tight leading-tight">
             Clear information. Informed decisions.

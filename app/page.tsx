@@ -20,25 +20,25 @@ export default function Home() {
         {/* Hero Section */}
         <Hero />
 
-        {/* 01 / GIFT City */}
+        {/* GIFT City */}
         <GiftCitySection />
 
-        {/* 02 / Our Philosophy */}
+        {/* Our Philosophy */}
         <PhilosophySection />
 
-        {/* 03 / Our Foundation & Experience */}
+        {/* Our Foundation & Experience */}
         <ExperienceSection />
 
-        {/* 04 / Investment Leadership */}
+        {/* Investment Leadership */}
         <InvestmentLeadershipSection />
 
         {/* Quote Break Banner */}
         <QuoteBanner />
 
-        {/* 05 / Connect With Us Interactive Form */}
+        {/* Connect With Us Interactive Form */}
         <ConnectSection />
 
-        {/* 06 / Regulatory & Investor Information */}
+        {/* Regulatory & Investor Information */}
         <RegulatorySection />
       </main>
 
